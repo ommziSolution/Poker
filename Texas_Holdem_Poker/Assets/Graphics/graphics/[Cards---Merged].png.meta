@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: 8057dd1f108f2e143baab9f66c410de9
+timeCreated: 1450766770
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: King_Heart
+    21300002: Queen_Heart
+    21300004: Jack_Heart
+    21300006: 10_Heart
+    21300008: 9_Heart
+    21300010: 8_Heart
+    21300012: 7_Heart
+    21300014: 6_Heart
+    21300016: 5_Heart
+    21300018: 4_Heart
+    21300020: 3_Heart
+    21300022: 2_Heart
+    21300024: Ace_Heart
+    21300026: Card_Back
+    21300028: King_Diamond
+    21300030: Queen_Diamond
+    21300032: Jack_Diamond
+    21300034: 10_Diamond
+    21300036: 9_Diamond
+    21300038: 8_Diamond
+    21300040: 7_Diamond
+    21300042: 6_Diamond
+    21300044: 5_Diamond
+    21300046: 4_Diamond
+    21300048: 3_Diamond
+    21300050: 2_Diamond
+    21300052: Ace_Diamond
+    21300054: King_Spades
+    21300056: Queen_Spades
+    21300058: Jack_Spades
+    21300060: 10_Spades
+    21300062: 9_Spades
+    21300064: 8_Spades
+    21300066: 7_Spades
+    21300068: 6_Spades
+    21300070: 5_Spades
+    21300072: 4_Spades
+    21300074: 3_Spades
+    21300076: 2_Spades
+    21300078: Ace_Spades
+    21300080: King_Clubs
+    21300082: Queen_Clubs
+    21300084: Jack_Clubs
+    21300086: 10_Clubs
+    21300088: 9_Clubs
+    21300090: 8_Clubs
+    21300092: 7_Clubs
+    21300094: 6_Clubs
+    21300096: 5_Clubs
+    21300098: 4_Clubs
+    21300100: 3_Clubs
+    21300102: 2_Clubs
+    21300104: Ace_Clubs
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: King_Heart
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Queen_Heart
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jack_Heart
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 10_Heart
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9_Heart
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 800
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8_Heart
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7_Heart
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6_Heart
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 800
+        width: 143
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5_Heart
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4_Heart
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 800
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3_Heart
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 800
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2_Heart
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 800
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ace_Heart
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 800
+        width: 143
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Card_Back
+      rect:
+        serializedVersion: 2
+        x: 2436
+        y: 800
+        width: 144
+        height: 197
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: King_Diamond
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Queen_Diamond
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jack_Diamond
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 10_Diamond
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9_Diamond
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 560
+        width: 144
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8_Diamond
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7_Diamond
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6_Diamond
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 560
+        width: 143
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5_Diamond
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4_Diamond
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 560
+        width: 144
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3_Diamond
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 562
+        width: 144
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2_Diamond
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 560
+        width: 145
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ace_Diamond
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 560
+        width: 143
+        height: 199
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: King_Spades
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Queen_Spades
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jack_Spades
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 10_Spades
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9_Spades
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 317
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8_Spades
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7_Spades
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6_Spades
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 317
+        width: 143
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5_Spades
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4_Spades
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 317
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3_Spades
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 317
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2_Spades
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 317
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ace_Spades
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 317
+        width: 143
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: King_Clubs
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Queen_Clubs
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jack_Clubs
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 10_Clubs
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9_Clubs
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 78
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8_Clubs
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 78
+        width: 143
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 78
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3_Clubs
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 78
+        width: 144
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2_Clubs
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 78
+        width: 145
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ace_Clubs
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 78
+        width: 143
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
